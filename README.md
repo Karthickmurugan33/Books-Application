@@ -1,17 +1,7 @@
-## Running React on Repl.it
+You can design an app for managing your reading flow, similar to Goodreads, an American cataloging website for book enthusiasts. Libib, 
+for example, is a library management program that assists you in cataloging your favorite media such as books, music, films, and games. 
+What is the definition of a standard book app? It’s like a catalog/library or a content management system, with a list of books under the
+currently-reading, to-read, and already-read tabs, as well as a search bar.
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+Click to view - https://books.karrthick33.repl.co/
